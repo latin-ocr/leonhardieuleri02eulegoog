@@ -1,0 +1,38 @@
+m CAPUT ΙΙΙ.
+
+⁴ Hoc igitur casu curva variata plane non discrepat a data, ac tota
+
+variatio formulae JVdae reducitur'ad de.
+
+Scholion 1.
+
+90. Ver-ictio haec pro formula integrali sVdoo inventa
+statim sappeditat regulam, quam olim tradidi pro curva invenienda
+in qua valor ejusdem formulae integralis sit maximus vel minimus.
+illa enim regula postulat, ut haec expressio ⁴
+
+Nede& b÷ena
+nihilo aequalis statuatur. Hic autem statim evidens est, ed id, ct
+variatio formulae [de evanescat, quemadmodum natura marimo·
+rum et minimorum exigit, ante omnia requiri, ut prima pars siguo
+integrali contenta evanescat, ex quo fit
+
+N-}÷ffi-ss÷ffi—mzo
+Praeterea vero etiam partes absolutas nihilo aequari oportet, in
+κ’ quo 'applicatio ad utrumque curvae terminum continetur. lpsa
+enim curvae natura per illam aequationem exprimitur, quaecum
+ob differentialia altioris gradus totidem integrationes totidemque con· ’
+stantes arbitrarius assumat, harum constantium determinationi illae
+partes absolutae inserviunt, ut tam in initio quam in fine quaesita
+curva certis conditionibus respondeat, veluti ad datas lineas curvat
+terminetur. Ac si aequatio illa fuerit differentialis ordinis quarti
+vel adeo altioris, partium quoque absolutarum numerus augetur,
+quibus effici potest, ut curva quaesita non solum utrinque ad datas
+lineas terminetur, sed ibidem quoque certa directio, quin etiarn si
+ad altiora differentialia assurgat, certa curvaminis lex praescribi
+queat. Semper autem applicationem faciendo pulcherrime evenire
+solet, ut ipsa quaestionum indoles ejusmodi conditiones involvat,
+, quibus per partes absolutus commodissime satisfieri porat.
+
+ 
+

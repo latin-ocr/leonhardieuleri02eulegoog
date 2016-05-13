@@ -1,0 +1,42 @@
+392 CAPUT 1.
+
+tuslyseos Incrementa requiri ridentur. Veram ob banc ipsam esu·
+sam co magis erit enitendum ut principia liujus methodi, quaa ω.
+culo variationum continentur, solide stabiliantur, simulque clare ac
+distincte proponantur.
+
+Scholion 2.ι
+
+25. Vix opus esse arbitror hic animadvertere, istum calcu·
+lum simili modo ad plures tribus variabiles amplificari posse, etiamsi
+quaestiones geometricae nou amplius dilucidationem suppeditent; ipsa
+enim Analysis non uti Geometria certo dimensionum numero limi·
+tari est censenda. Quando autem plures variabiles considerantur,
+ante omnia perpendi convenit, utrum earum relatio mutua unica
+tautum aequatione exprimatur, au pluribus? quae tot esse possunt,
+ut multitudo unitate tantum a numero variabilium deficiat, quo casu
+omnes tanquam functiones unius spectare licet. Sin· autem paucio-
+ribus aequationibus constet aelafio, singulae variabiles erunt iunctio·
+nes duarum pluriumve variabilem, et quolibet quoqne casu varia·
+tiones singulis tributae tanquam functiones totidem variabilium trae·
+tari debent, siquidem bunc calculum ‘generalissime expedire velimus.
+
+Defluitio 5.
+
+26. Calculus variationum est methodus inveniendi vario·
+ticum, quam recipit expressio en quotcunque variabilibus uicum
+que conflata, dum variabilibus vel omnibus vel aliquibus variatio·
+nes tribuantur.
+
+Explicatio„
+
+27. In hac delinitione nulla fit mentio relationis, qnam
+hactenus inter variabiles dari assumsimus, cum enim hic calculus
+potissimum in hac ipsa relatione· investiganda sit occupatus, quac
+scilicet maximi minimive proprietate sit praedita, quamdiu ea ad·
+
+huc est iniognita, ejus rationem in calculo neutiquam habere licet,
+sed potius eum ita tractari convenit, qnasi variabiles nulla plane
+
+ 
+

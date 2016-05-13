@@ -1,0 +1,39 @@
+C A P U T· V.
+DE
+vialarmua roaMunraun rurnoarmun rans
+
+‘ VARIABILESIN·VOLVENT1UM‚ ΕΤ DU'PLICEM
+RELATIONEM IMPLI'CANTIUM.
+
+· Problema 12.
+
+123.
+
+Proposita formula quacunque ternas variabiles x, y, z curn auia
+
+· differentialibus cujuscunque gradus involvente, ejus variationem defi·
+nire ex variationibus omnium trium variabilium oriundam'
+
+solutio.-
+
+sit W formula ieta proposita, cujus primo quaeratur valor
+variatus‘ W -l- dW, qui oritur ai loeo rr, y, z scribantur ipsarum
+valores variati ,
+
+aer-lx, r-ldr, κῴδι’.
+
+similiterque pro earum differentialibus
+
+'aa -ι- ode, br -l- adr, ἂι ÷ tiz,
+
+etita porro: a quo ai ipsa formula W auferatur) remanebit ejus
+variatio dW. Ex quo intelligitur hanc variationem per consuetam
+differentiationem obtineri ei modo loeo signi differentiationis ὸ, sig·
+num variationes oapi oporteat, perinde esse, in quonam loeo inter
+
+differentiationis signa signum variationis δ collocetur, quemadmodum > ’
+
+57*
+
+ 
+

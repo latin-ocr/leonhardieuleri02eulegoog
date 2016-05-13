@@ -1,0 +1,30 @@
+CAPUT 111.
+
+Corollarium 2.
+
+87. Si quaestio sit de linea curva, priora pars integralis
+valorem per totam curvam ab initio usque ad terminum, obi coor-
+dinatus x ety subsistunt, congregat, simul ornnes variationes in
+singulis curvae punctis saetas complectens, dum reliquae partes
+absolutae tantum per variationes in extremitate curvae sactasde·
+finiuntur.
+
+Corollariurn 3.
+
+88. Si curvam coordinatis ar et y definitam ut datam
+spectemus aliaque curva ab ea infinit eperum discrepans consideretur,
+dum in singuiis punctis utrique coordinatus variationes quaecunque
+tribuuntur, expressio inventa indicat, quantum formulae integralis
+sVdae valor ex curva variata collectus superat ejusdem valorem
+ex ipsa curva data desumtutn. ⁵
+
+Corollarium d..
+
+89. Cum sit ozia-pia, patet hanc quantitatem ω
+evanescere, si in singulis punctis variationes dx etdy ita acci·
+piantur, ut sit
+
+dyadxzpzazbyzdae.
+
+ 
+

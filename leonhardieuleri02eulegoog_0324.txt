@@ -1,0 +1,41 @@
+curura
+
+Scholion 1.
+
+tta. In calculo quidem differentiali parum refert, mrum
+functio differentianda unam¹ pluresve variabiles involvat ,’ oum prae-
+eepta differentiandl pro quovis* variabilium numero 2 maneant eadem;
+quam ob eausam etiam calculum differentialem secundum hanc
+functionum · varietatem in diversas partes distingui non erat opus. .
+Longe aecus autem accidit in calculo integrali, quem seeundum
+, hane functionum varietatem omnino in partes dividi neeesse est,
+quippe quae partes tam ratione propriae indolis quam ratione prae·
+ceptorum maxime inter se discrepant. Quemadmodum igitur hanc
+partem eirca functiones trium variabilium occupatam tractari con-
+veniat, ’ exponendum videtur. Ac primo quidem‘ii casus commodis·
+sime evolventur‚. quibus unius cujusdam formulae differentialis valor
+datur, ex quo indolem functionis quaesitae deliniri oporteat, quo·
+niam haee investigatio nulla laborat difficultate. Deinde hujusmodi
+¹. quaestiones aggrediar, ‚quibus relatio quaepiam inter duas pluresve
+formulas differentiales proponitur: ubi quidem plurimum relert, cu·
+’ jusnam gradus eae luerint ‚¹ siquidem ex primo gradu plures casus
+expedire lieet, dum en altioribus vix adhuc quicquam in medium
+afferri potest: hunc ergo ordinem in ista tractatione observabo.
+
+Scholion 2.
+
+tut. videri· liic posset, ad functiones trium variabilium de·
+finiendas, duas adeo conditiones seu relationes inter formulas diffe-
+
+rentiales admitti posse, neque unica praescripta quaestionem esse
+determinatam. Quodsi enim ponatur
+
+uzm÷m÷m‚
+
+ubi litterae p, q, r vicem gerunt formularum differentialium primi
+gradus, atque verbi gratia hae duae proponantur conditiones, ut sit
+
+‹rr-'aet r:a‚
+
+ 
+

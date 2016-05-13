@@ -1,0 +1,40 @@
+CAPUT IV.
+
+Scholion 2.
+
+115. Quod in praecedente capite tacite assumimus de
+
+quantitate constante variationi inventae adjicienda, quippe* quam '
+
+pars integralis variationis sponte involvit, hoc in istius problematis ,
+solutione accuratius exponere est visum. ·Cum scilicet in hujus· ,
+modi quaestionibus, quae ad formulas integrales reducuntur, per-
+petuo ad terminos integrationis sit respiciendum, siquidem integrale
+nihil aliud est nisi summa elementorum a termino dato seu initio
+ad alium terminum seu finem continuatorum, baec consideratio
+‘ prorsus essentialis est omni integrationi, sine qna idea valoris ⁴in·
+tegralis ne consistere quidem potest. Quamobrem constitutis inte·
+grationis terminis initio scilicet et fine, statim ao variationis pars
+integralis ita ast accepta ut pro initio evadat nulla, tum ejusmodi
+constantem adjici oportet, ut etiarn partes, absolutae pro eodem in·
+itio destruantur, sieque universa variationis expressio ad nihilum
+redigatur. Quod cum suerit facturn, -ad finem integrationis de-
+mum progredi lieet, ut boc pacto vera variatio formulae integralis
+positae ab initio ad tinem extensae obtineatur. Haec autem va·
+riationum doctrina ad duplicIs generis quaestiones accommodari
+potest3 dum in altero relatio inter variabiles x ety data assu· Ι
+mitur, et formulae integralis itidem datae [de variatio investiga·
+tur, postquam per totam integrationis extensionem variabilibus x
+ety variationes quaeeunque suerint tributae, in altero autern ge·
+nere ipsa illa variabilium x et y relatio quaeritur, ut formulae in·
+tegralis sde variatio certa proprietate sit praedita3 quemadmo-
+dum si ea formula maximum minimumve valorem recipere debeat,
+banc variationem in nihilum abire necesse est. Ubi iterum duo
+casus se offerunt, prout maximum minimumve locum habere debet,
+vel quaecunque variationes ipsis ‘aa ety tribuantur, vel si tantum
+bae variationes certae cuidam legi adstringantur. Ex quo mani·
+festum est, *banc Tbeoriam multo latius patere, quam quidem ea
+adhuc in. usum eat vocata.
+
+ 
+

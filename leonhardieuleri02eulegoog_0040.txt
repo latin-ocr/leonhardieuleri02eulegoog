@@ -1,0 +1,37 @@
+” · 'CHU'I'1.· '- 29
+
+binarum variabilium versantur, sint x et y binae variabiles, et z
+earum functio et dats quadam differentialium relatione definienda,
+its ut aequatio linita inter n, yet z requiratur. Ponamus aautent
+
+dzzpdx-p-qby, ita' ut sit recepto signandi modop: (ἐξ) et
+q: (ᾗ), atque ideo p et q sint formulae differentiales, quae ia
+
+relationem propositam ingrediantur. ln genere ergo relatio tau
+erit aequatio quaeeunque inter quantitates p, q, Μ] et z propo·
+sits, atque ‘haee sectio perfecte absolveretur, si methodus constaret,
+ex data aequatione quacunque inter has quantitates ρ, q, Μ et z
+eruendi aequationem inter s, y et z; quod autem cuna iu¹ genere
+ne pro functionibus quidem unicae variabilis praestari possit, multo
+minus hie est expectandum, ex quo eos casus tantum evolvi conve·
+niet, qui resolutionem admittant. Primo autem resolutio succedit,
+si in aequatione proposita altera formularum differentialium p vel
+p plane desit. ita ut aequatio vel inter p, x, p etz vel inter q,
+x, y etz proponatur. Deinde aequationes, quae solas binas for·
+
+mulas differentiales p et q continent, ita ut altera debeat esse , ¹
+
+functio quaeeunque alterius, commode resolvere licet. Tum igitur
+sequentur aequationes, quoe praeter p et q' unicam quantitatem dni·
+tarum s· sely vel z complectantur, ex quo genere cujusmodi casus
+resolvi queant videamus. Ordo porro postulat, ut ad aequationes,
+qnae praeter binas formulas differentiales p etq insuper binas .
+quantitatum finitarum, vel x et y, vel m et z, vel y etz, invol-
+vunt, progrediamur3 ae denique de resolutione aequationum omnes ,
+litteras p, q, s, y et -z implicandum. agemus, subsidia· transforme-
+tiuuis deinceps exposituri.
+
+···-m
+
+ 
+

@@ -1,0 +1,43 @@
+aar ” carus¹ n.
+
+‘Scholion t.
+
+ltu. Quemadmodum iu praecedente parte functitmea arbi·
+trariae unius variabilis per applicatas *curvarum quarumcunque sire
+regularium sive etiam irregularium repraesentari· poterant, ita in
+¹ bac parte functiones binarum variabilium arbitrariae pe‘r superlici-
+em pro lubitu descriptam 'repraesentari possunt. Ita si super plano,
+in quo binae coordinatae x et y more solito, assumuntur, superii.
+cies quaecunque expansa concipiatur, tertia coordinata distantiam
+cujusvis· superficiei puncti ab illo plano. designans, functionem quam··
+cunque binarum variabilium rr et p repraesentabit. Hocque modo
+aptissime vera idea hujusmodi functionum ,constitui ridetur, cum ex
+Κ ea non solum ratio barum functionum regularium sed etiam irregula-
+rium perspiciatur. “
+
+Scholion 2.
+
+450. Hic etiam notiri convenit, hujusmodi functiones bina·
+rum variabilium infinitis diversis modis etiam designari posse. Va·
+riatis enim in plano memorato binis coordinatis x et y, in binas
+alias t et u, ut sit
+
+t: ui -t- ssy'et usz -l- dy,
+
+'manifestum 'est functionem binarum variabilium·t et u seu l':<t et u)
+convenire eum functione ipsarum x et y seu 'r:<x et y); sienim
+
+ἱ loco t et ιι illi valores pro a· et y substituantur utique prodit sunc-
+
+tio duas tantum variabiles' rr et y involvens. Atque multo gene·
+“ rullus si t aequatur functioni cuipiam datae ipsarum x et y, pari·
+'terque ιι hujusmodi alii functioni, tum r:<t et ιι) facta substitutio·
+ne abibit in functionem ipsarum rr et p ita exprimendam A:(x et y);
+non enim necesse est ut idem functionis character I'rationem com·
+positionis quasi denotans utrinque sit idem, cum hic wiu genere de
+
+functionibus quibuscunque agatur. Quare si· in sequentibus sorte
+ejusmodi functiones occurrant
+
+ 
+

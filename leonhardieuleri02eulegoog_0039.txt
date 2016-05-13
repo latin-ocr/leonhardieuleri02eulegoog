@@ -1,0 +1,42 @@
+'28 ’ CAPUT l.
+
+ll ex data quacunque relatione harum'duarurn sormnlamm (ἐξ) et
+ffi) cst difinienda. Relatio autem llaec per aequationem iuter
+
+istas formulas et binas variabiles a: et y, quam etiam ipsa functio
+quaesita V ingredi potest, exprimitur, ex cujus aequationis indole
+divisio tractationis erit peteuda. Problema seilicet generale, in quo
+solvendo ista sectio est occupata, ita sehabet, ut ca binarum va·
+riabilium x ety functio V inveniatur, quae satisfaciat aequationi
+
+cuicunque inter quantitates co, y, V, (ἓξ) et (ἐξ) lamponium
+Quodsi in hane aequationem altera tautum binarum formularum dil·
+
+serentialium (Ξ-ξ) vel (g) ingrediatur, resolutio non est difficilis,
+
+atque ad casum aequationum differentialium duas tantum variabiles
+involventium reducitur3 quando autem ambae istae formulae iu ae·
+quatione proposita insuat, quaestio multo magis est ardua ao sae·
+penumcro ne resolvi quidem potest, etiamsi· resolutio aequationum
+differentialium duas tantum variabiles complectentium admittatur: in
+boo enim negotio, quoties resolutionem ad integrationem aequatio-
+num differentialium inter duas variabiles reducere licet, problema
+pro resoluto erit habendum. Cum igitur ex aequatione proposita
+
+formula (ἐξ) aequetur functioni utcunque ex quantitatibus x, y, V et (Ξέ) .
+conflatae, ex indole hujus functionis, prout luerit simplicior, et sel
+solam formulam (3—1), rel praeter eam unicam ax reliquis, vel
+
+etiam binas, vel adeo omnes comprehendat, tractationem coquentem
+distribuamus. Hoc enim ordine servato facillime apparebit, quan·
+tum adhuc praestare liceat, et quantum adhuc desideretur. Praeter·
+es vero nonnulla subsidia circa mansformatiouem binarum formida·
+rum differentialium sd alias variabiles exponenda occurrent·
+
+Divisio lrujus sectionis.
+
+Quo partes, quas in hac sectione pertractari conveniet, cla·
+rius conspectui exponantur, quoniam bae quaestiones circa mucione·
+
+ 
+

@@ -1,0 +1,37 @@
+3022 C A· P U Τ 11.
+
+integrationibus aliquid indeterminati introducitur. llic scilicet in·
+gressa eat functio quaecunque ipsrus y, cujus indoles per se nullu ⁴
+modo determinatur3 cam quoque ita concipere licet, ut descripta
+curva quacunque, si ejus abscissae per y iudicentur, applicatae ex·
+hibeaut ejusmodi functionem ipsius y. Neque vero opus est, ut
+baec curra sit regularis et aequatione quapiam contenta, sed curve
+quaecunque libero manus ductu descripta eundem praestat effectum,
+¹ etiamsi sit maxime irregularis, et ex pluribus partibus diversarum
+’ curvarum conflata, Hujusmodi functiones irregulares appellare licet
+discontinuas scu nexu continuitatis destitutas3 unde boc imprimis
+notatu dignum occurrit, quod cum prioris generis 'integrationes alias
+functiones praeter continuas non admittant, hic etiam functiones
+discontinuae calculo subjiciantur, quod pluribus insignibus Geometris
+adeo calculi principiis adversari est visum. Verum integrationum in
+hoc secundo libro tradendarum ris praecipua in eo consistit, quod
+etiam functionum discontinuarum siut capaces3 ex quo per hunc quasi
+novum calculum lines Analyseos maxime proferri sunt censendi.
+
+Scholion 2.
+
+8-8. Quemadmodum deinde in vulgaribus integrationibus con·
+staus arbitrmia ingressa, semper ex indole problematis, cujus solu·
+tio eo perduxerat, determinatur, ita etiam hic natura problematis,
+cujus solutio hujusmodi integratione absolvitur, semper indolem
+functionis arbitrariae per integrationem ingressae determinabit. Ita
+si cordae tensae figura quaecunque inducatur, eaque subito ‘dimitta-
+tur, ut oscillationes peragat, ope principiorum mechanicorum sd
+quodvis tempus figura, quam corda tum sit habitura, deliniri 'potem'
+hocque lit ejusmodi integratione, qua functio quaedam arbitraria iu·
+troducitur3 quam sutem deinceps ita determinari conuenit, ut pro
+ipso motus initio ipsa illa ligura cordae inducta prodeat; et curn
+solutio debeat esse generalis, ut satisfaciat figurae cuicunque initiali,
+
+ 
+

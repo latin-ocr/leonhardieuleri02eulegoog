@@ -1,0 +1,45 @@
+tm‘s ’ catur ut l
+
+eoi-ollulam 3.
+
+ld. »Dum igitur sprmula integralis simplex sit hujusmodi
+siban, ubi v est taneta quantitatum x, y. p, q, r, ete. ejus indolem
+commodissime differentiales ejus repraesentabit, si dicamus esse
+
+dl .·: Mdv -l- Ndy ÷1³dp -t- Qdo -l— Rdr 4- et'c.
+
+Scholion( 0
+
+tt. Distingno hic formulas integrales simplices a eompli-
+catis, in quibus integratio proponitur ejusmodi formularum differen-
+tialium, quae jam ipsae unam pluresve formulas integrales invol-
+runt. Veluti vsi littera s denotet integrale
+
+sfflff÷ffizffiffo÷m
+
+’ atque quantitas v praeter illas quantitates etiam hanc s eontineat,
+t'ormula integralis s de merito censetur complicata, eujus ⁴variatio
+
+⁸ Ι singularia praesepta postulat deinceps exponenda. Hoc autem ca·
+
+pite primo methodum formularum integralium simplicium variatio·
+nes inveniendi tradere constitui. ’
+
+Theorema 2.
+
+7 5. Karistia formulae integralis s W semper aequalis est
+ittteqrali variationis omnem formulae differentialis, cajus inte-
+’ prate propositum seu est ds W :: s δ W,
+
+Demonstratio.
+
+Cum variatio sit excessus, quo valor variatus cujusque quan·
+⁴titatis superat ejus valorem naturalem, perpendamus formulae pro·
+positae s W valorem variatum, quem obtinet, si loeo variabilium x
+et y earundem =salores suis variationibus dx et dy aucti substituan-
+
+tur. Cum autem tum quantitas W abeat in W 4- dW, formae
+propositae valor variatus erit
+
+ 
+

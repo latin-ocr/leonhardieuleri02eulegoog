@@ -1,0 +1,39 @@
+‚CAPUT ,Ι.
+
+DE
+
+FORMULIS DIFFERENTIALIBUS SECUNDI GRADUS IN
+¹ GENERE.
+
+Problema 38.
+
+ι220.
+
+Si z sit functio quaeeunque binarum variabilium-ae* et y, ejus for·
+mulas differentiales secundi gradus exhibere. Ὺ
+
+8’.ο“Ιιιιίο
+
+eum z sit iunctio binarum va'rrebiiiu‘m ω et y uss-·‹frfferen
+tia'le hujusmodi habebit formam
+
+&apim-qais,
+
+ex qua p et q sunt formulae differentiales primi gradus, quas ita ⁴ ’
+denotare solemus
+
+p* pm) et q'* (ἃ y .
+Οιιιιι nunc sint quoque p et q functiones ipsarum x ει y, formu·-
+lae differentiales inde natae erunt formulae differentiales secundi
+
+gradus' ipsius z, unde intelligitur quatuor hujusmodi formulas nasei
+ιὲ-Ξι (ἐξ) (ἐι (ἐξ)
+
+quarum autem secundam ac ιαιὶιιιιι inter se congruere in calculo
+
+differentiali est demonstratum. Sed ιιιιιιι sitp: (5-{J simili scri·
+
+bandi ratione erit (Ξθζ (Ξ-ἰῖ), cujus scripturae significatus hine
+
+ 
+
